@@ -1,0 +1,186 @@
+body{
+	background-color: #F9F9FA;
+margin: 0;
+font-family: 'DM Sans', sans-serif;
+font-weight: bold;
+
+}
+
+ul{
+padding-top: 38px;
+	display: flex;
+	flex-flow: row;
+	flex-direction: row;
+}
+
+ul li{
+list-style-type: none;
+padding-right: 40px;
+
+}
+
+ a{
+ 	font-size: 14px;
+text-decoration: none;
+ 	color: #fff;
+ }
+.menu_jobs a{
+opacity: 0.6;
+}
+.menu_jobs a:hover{
+color: #Fffff;
+}
+
+.bell_job{
+padding-left: 153px;
+padding-top: 41px;
+
+}
+
+.menu_head_job{
+display: flex;
+flex-direction: column;
+flex-flow: column;
+background-color: #0052CC;
+}
+
+
+.user_job_linc{
+padding-top: 26px;
+padding-left: 40px;
+}
+
+.head_jobs{
+	color: #FFF;
+display: flex;
+flex-flow: row;
+flex-direction: row;
+height: 100px;
+  width: 1440px;
+
+}
+
+.logo_jobs{
+padding-left: 165px;
+padding-top: 38px;
+padding-right: 72px;
+}
+.logo_jobs a{
+	font-size: 24px;
+}
+.search_job_page{
+	display: flex;
+	flex-direction: row;
+	flex-flow: row;
+	margin-left: 165px;
+margin-top: 64px;
+margin-bottom: 80px;
+width: 900px;
+height: 80px;
+background-color: #fff;
+border-radius: 24px;
+}
+
+input{
+	color: #8F92A1;
+	border-left: none;
+	border-top: none;
+	border-bottom: none;
+	border-right-color: #CDCDCD ;
+
+width: 524px;
+height: 80px;
+}
+
+form{
+	display: flex;
+	flex-flow: row;
+	flex-direction: row;
+	font-family: 'DM Sans', sans-serif;
+font-weight: bold;
+
+}
+
+.input_search_job{
+
+	padding-left: 32px;
+}
+
+.search_botton{
+margin-bottom: 28px;
+margin-top: 28px;
+margin-right: 24px;
+margin-left: 32px;
+background-color: #fff;
+border: none;
+}
+
+
+.location_job_search{
+
+	margin-top: 28px;
+	margin-bottom: 28px;
+	margin-left: 24px;
+}
+
+.button_search{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 90px;
+	margin-right: 20px;
+background: #0052CC;
+	border-radius: 16px;
+	width: 88px;
+	height: 40px;
+border: none;
+color: #fff;
+	font-family: 'DM Sans', sans-serif;
+font-weight: bold;
+}
+
+.body_style{
+	display: flex;
+	flex-direction: row;
+	flex-flow: row;
+	margin-top: 32px;
+	margin-left: 165px;
+	width: 1110px;
+
+
+
+}
+
+
+.filter_jobs{
+width: 255px;
+
+
+
+}
+.jobs  span{
+	color: #8F92A1;
+}
+
+.block_show_job{
+display: flex;
+flex-flow: row;
+flex-direction: row;
+justify-content: space-between;
+	width: 825px;
+	height: 40px;
+}
+
+.short_style_job span{
+	color: #000;
+}
+
+.short_style_job{
+	color: #8F92A1;
+}
+
+.item_style{
+	border-radius: 24px;
+	background-color: #ffff;
+}
+
+
